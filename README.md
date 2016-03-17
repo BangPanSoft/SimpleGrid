@@ -10,8 +10,10 @@ Simple grid view and load data from json api by Retrofit and Glide.
   </tr>
 </table>
 
+
 # VDO
 https://www.youtube.com/watch?v=p-UoB740-24&feature=youtu.be
+
 
 # Download simple .apk file
 https://drive.google.com/file/d/0BwrHLsm5UZhlTGJTdVA4N2UyWGc/view?usp=sharing
