@@ -3,4 +3,13 @@ Simple grid view and load data from json api by Retrofit and Glide.
 
 
 # Screen Shot
-<img src="https://github.com/BangPanSoft/SimpleGrid/blob/master/art/cover1.png" alt="Mountain View" style="width:270px;height:480px;">
+<table style="width:100%">
+  <tr>
+    <td><img src="https://github.com/BangPanSoft/SimpleGrid/blob/master/art/cover1.png"></td>
+    <td><img src="https://github.com/BangPanSoft/SimpleGrid/blob/master/art/cover2.png"></td> 
+  </tr>
+
+
+
+
+
