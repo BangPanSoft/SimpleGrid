@@ -1,5 +1,5 @@
 # SimpleGrid
-Simple grid view and load data from json api by Retrofit and Glide.
+Simple grid view load data from json api by use Retrofit and Glide library.
 
 
 # Screen Shot
