@@ -11,7 +11,7 @@ Simple grid view and load data from json api by Retrofit and Glide.
 </table>
 
 # VDO
-<iframe width="420" height="315" src="https://www.youtube.com/embed/p-UoB740-24" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=p-UoB740-24&feature=youtu.be
 
 
 
