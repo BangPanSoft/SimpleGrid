@@ -1,6 +1,6 @@
 {
   "name": "Simplegrid",
   "tagline": "Simple android grid view and load data from json api by Retrofit and Glide.",
-  "body": "# Screen Shot\r\n<table style=\"width:100%\">\r\n  <tr>\r\n    <td><img src=\"https://github.com/BangPanSoft/SimpleGrid/blob/master/art/cover1.png\"></td>\r\n    <td><img src=\"https://github.com/BangPanSoft/SimpleGrid/blob/master/art/cover2.png\"></td> \r\n  </tr>\r\n</table>\r\n\r\n\r\n# VDO\r\nhttps://www.youtube.com/watch?v=p-UoB740-24&feature=youtu.be\r\n\r\n\r\n# Download simple .apk file\r\nhttps://drive.google.com/file/d/0BwrHLsm5UZhlTGJTdVA4N2UyWGc/view?usp=sharing\r\n\r\n",
+  "body": "# SimpleGrid\r\nSimple grid view load data from json api by use Retrofit and Glide library.\r\n\r\n\r\n# Screen Shot\r\n<table style=\"width:100%\">\r\n  <tr>\r\n    <td><img src=\"https://github.com/BangPanSoft/SimpleGrid/blob/master/art/cover1.png\"></td>\r\n    <td><img src=\"https://github.com/BangPanSoft/SimpleGrid/blob/master/art/cover2.png\"></td> \r\n  </tr>\r\n</table>\r\n\r\n\r\n# VDO\r\nhttps://www.youtube.com/watch?v=p-UoB740-24&feature=youtu.be\r\n\r\n\r\n# Download simple .apk file\r\nhttps://drive.google.com/file/d/0BwrHLsm5UZhlTGJTdVA4N2UyWGc/view?usp=sharing\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
